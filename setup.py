@@ -12,8 +12,8 @@ setup(
         'This is the official implementation for the paper: '
         '"Long Term Time Series Forecasting With Latent Linear Operators".'
     ),
-    author='',
-    author_email='',
+    author='anonymouscodesubmission88',
+    author_email='anonymouscodesubmission88@gmail.com',
     url='https://github.com/anonymouscodesubmission88/lldm',
     license='',
     classifiers=[
