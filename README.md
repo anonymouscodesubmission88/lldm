@@ -33,4 +33,5 @@ python ./illness_lldm
 "
 
 Note that in order to edit the parameters of each experiment (e.g., prediction horizon, numer of layers, look-back window length etc. you need to directly edit the scripts).
-Also, when downloading the data files for the electricity & traffic datasets, notice that the raw file might download as a .txt file. If that happens, simply change the file extension to .csv (the reason for is that they were uploaded using Git LFS which does not store the actual raw files on the same repository as the code).
+
+Also, when downloading the data files for the electricity & traffic datasets, notice that the raw file might download as a .txt file. If that happens, simply change the file extension to .csv (the reason for that is that they were uploaded using Git LFS which does not store the actual raw files on the same repository as the code).
